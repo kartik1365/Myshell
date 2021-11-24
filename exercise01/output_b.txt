@@ -1,0 +1,3 @@
+Child 7402 is created by parent 7401 (sleeps for 2 seconds)
+Parent 7401: Child 7402 is exited
+Child 7403 is created by parent 7402 (sleeps for 4 seconds)

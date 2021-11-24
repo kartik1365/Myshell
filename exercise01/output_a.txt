@@ -1,0 +1,4 @@
+Child 7366 is created by parent 7365 (sleeps for 4 seconds)
+Child 7365 is created by parent 7364 (sleeps for 6 seconds)
+Parent 7365: Child 7366 is exited
+Parent 7364: Child 7365 is exited

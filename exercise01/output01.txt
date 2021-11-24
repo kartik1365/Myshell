@@ -1,0 +1,30 @@
+Output for n = 1
+Child 5974 is created (sleeps for 3 seconds)
+Child 5974 exited
+Output for n = 2
+Child 5978 is created (sleeps for 1 seconds)
+Child 5979 is created (sleeps for 4 seconds)
+Child 5978 exited
+Child 5979 exited
+Output for n = 4
+Child 5983 is created (sleeps for 3 seconds)
+Child 5984 is created (sleeps for 5 seconds)
+Child 5985 is created (sleeps for 7 seconds)
+Child 5982 is created (sleeps for 10 seconds)
+Child 5983 exited
+Child 5984 exited
+Child 5985 exited
+Child 5982 exited
+Output for n = 6
+Child 6019 is created (sleeps for 2 seconds)
+Child 6037 is created (sleeps for 2 seconds)
+Child 6033 is created (sleeps for 3 seconds)
+Child 6039 is created (sleeps for 7 seconds)
+Child 6018 is created (sleeps for 10 seconds)
+Child 6027 is created (sleeps for 10 seconds)
+Child 6019 exited
+Child 6037 exited
+Child 6033 exited
+Child 6039 exited
+Child 6018 exited
+Child 6027 exited

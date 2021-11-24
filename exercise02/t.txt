@@ -1,0 +1,12 @@
+hello
+hello3
+cd.c
+cd.h
+cd.h.gch
+cd.o
+cshell
+echo.c
+echo.h
+echo.h.gch
+echo.o
+makefile
